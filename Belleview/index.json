@@ -1,0 +1,625 @@
+{
+
+"courses": [
+
+{
+
+  "title": "Advanced Periodontics",
+
+  "duration": "40 hours",
+
+  "level": "Advanced",
+
+  "description": "Comprehensive course covering advanced periodontal therapy techniques and treatment planning."
+
+},
+
+{
+
+  "title": "Pediatric Dentistry",
+
+  "duration": "30 hours",
+
+  "level": "Intermediate",
+
+  "description": "Specialized training in dental care for infants, children, and adolescents."
+
+},
+
+{
+
+  "title": "Oral Surgery Techniques",
+
+  "duration": "50 hours",
+
+  "level": "Advanced",
+
+  "description": "Advanced surgical procedures and techniques in oral and maxillofacial surgery."
+
+},
+
+{
+
+  "title": "Restorative Dentistry",
+
+  "duration": "35 hours",
+
+  "level": "Intermediate",
+
+  "description": "Modern approaches to dental restoration and aesthetic dentistry."
+
+},
+
+{
+
+  "title": "Endodontic Therapy",
+
+  "duration": "45 hours",
+
+  "level": "Advanced",
+
+  "description": "Root canal therapy and endodontic treatment procedures."
+
+},
+
+{
+
+  "title": "Dental Implantology",
+
+  "duration": "60 hours",
+
+  "level": "Advanced",
+
+  "description": "Comprehensive training in dental implant placement and restoration."
+
+}
+
+],
+
+"documents": [
+
+{
+
+  "title": "Clinical Guidelines",
+
+  "description": "Comprehensive clinical practice guidelines and protocols for dental procedures.",
+
+  "category": "guidelines"
+
+},
+
+{
+
+  "title": "Treatment Protocols",
+
+  "description": "Step-by-step treatment procedures and best practices for various dental conditions.",
+
+  "category": "protocols"
+
+},
+
+{
+
+  "title": "Safety Standards",
+
+  "description": "Infection control and safety protocols for dental practice environments.",
+
+  "category": "safety"
+
+},
+
+{
+
+  "title": "Equipment Manuals",
+
+  "description": "Operating manuals and maintenance guides for dental equipment.",
+
+  "category": "equipment"
+
+}
+
+],
+
+"patientEducation": [
+
+{
+
+  "title": "Oral Hygiene Basics",
+
+  "description": "Learn proper brushing and flossing techniques for optimal oral health.",
+
+  "icon": "🦷",
+
+  "category": "prevention"
+
+},
+
+{
+
+  "title": "Gum Disease Prevention",
+
+  "description": "Understanding gingivitis and periodontitis, and how to prevent them.",
+
+  "icon": "🩺",
+
+  "category": "prevention"
+
+},
+
+{
+
+  "title": "Cavity Prevention",
+
+  "description": "Tips and techniques to prevent tooth decay and maintain healthy teeth.",
+
+  "icon": "🛡",
+
+  "category": "prevention"
+
+},
+
+{
+
+  "title": "Children's Dental Care",
+
+  "description": "Special considerations for maintaining your child's oral health.",
+
+  "icon": "👶",
+
+  "category": "pediatric"
+
+},
+
+{
+
+  "title": "Emergency Dental Care",
+
+  "description": "What to do in case of dental emergencies and when to seek help.",
+
+  "icon": "🚨",
+
+  "category": "emergency"
+
+},
+
+{
+
+  "title": "Nutrition & Oral Health",
+
+  "description": "How diet affects your teeth and gums, and foods that promote oral health.",
+
+  "icon": "🥗",
+
+  "category": "nutrition"
+
+},
+
+{
+
+  "title": "Dental Anxiety Management",
+
+  "description": "Techniques and tips for managing dental anxiety and fear.",
+
+  "icon": "😌",
+
+  "category": "psychology"
+
+},
+
+{
+
+  "title": "Oral Cancer Awareness",
+
+  "description": "Early detection signs and prevention of oral cancer.",
+
+  "icon": "🔍",
+
+  "category": "awareness"
+
+}
+
+],
+
+"publications": [
+
+{
+
+  "title": "Advanced Techniques in Periodontal Therapy",
+
+  "journal": "Journal of Dental Research",
+
+  "year": "2024",
+
+  "authors": "Dr. Smith, Dr. Johnson",
+
+  "abstract": "This study explores innovative approaches to periodontal treatment..."
+
+},
+
+{
+
+  "title": "AI Applications in Dental Diagnostics",
+
+  "journal": "Digital Dentistry Review",
+
+  "year": "2024",
+
+  "authors": "Dr. Chen, Dr. Williams",
+
+  "abstract": "Artificial intelligence is revolutionizing dental diagnostics..."
+
+},
+
+{
+
+  "title": "Minimally Invasive Restorative Procedures",
+
+  "journal": "Restorative Dentistry Today",
+
+  "year": "2024",
+
+  "authors": "Dr. Brown, Dr. Davis",
+
+  "abstract": "Modern techniques for conservative dental restoration..."
+
+},
+
+{
+
+  "title": "Oral Health and Systemic Disease Connections",
+
+  "journal": "Medical-Dental Interface",
+
+  "year": "2024",
+
+  "authors": "Dr. Wilson, Dr. Taylor",
+
+  "abstract": "Exploring the relationship between oral health and overall health..."
+
+},
+
+{
+
+  "title": "Pediatric Dental Sedation Guidelines",
+
+  "journal": "Pediatric Dentistry Journal",
+
+  "year": "2023",
+
+  "authors": "Dr. Anderson, Dr. Martinez",
+
+  "abstract": "Updated guidelines for safe sedation in pediatric dental procedures..."
+
+},
+
+{
+
+  "title": "3D Printing in Dental Prosthetics",
+
+  "journal": "Dental Technology Review",
+
+  "year": "2023",
+
+  "authors": "Dr. Garcia, Dr. Rodriguez",
+
+  "abstract": "The impact of 3D printing technology on dental prosthetic manufacturing..."
+
+}
+
+],
+
+"products": [
+
+{
+
+  "id": "whitening-toothpaste",
+
+  "name": "Advanced Whitening Toothpaste",
+
+  "category": "toothpaste",
+
+  "price": "$12.99",
+
+  "description": "Professional whitening formula for brighter teeth",
+
+  "features": ["Removes stains", "Strengthens enamel", "Fresh mint flavor"],
+
+  "rating": 4.5
+
+},
+
+{
+
+  "id": "electric-brush",
+
+  "name": "Pro Electric Toothbrush",
+
+  "category": "brushes",
+
+  "price": "$89.99",
+
+  "description": "Advanced sonic technology for superior cleaning",
+
+  "features": ["Sonic technology", "Multiple modes", "Long battery life"],
+
+  "rating": 4.8
+
+},
+
+{
+
+  "id": "kids-toothpaste",
+
+  "name": "Kids Fruity Toothpaste",
+
+  "category": "kids",
+
+  "price": "$6.99",
+
+  "description": "Gentle formula with fun fruity flavors",
+
+  "features": ["Fluoride protection", "Fun flavors", "Safe if swallowed"],
+
+  "rating": 4.3
+
+},
+
+{
+
+  "id": "dental-floss",
+
+  "name": "Premium Dental Floss",
+
+  "category": "accessories",
+
+  "price": "$4.99",
+
+  "description": "Waxed floss for effective plaque removal",
+
+  "features": ["Waxed coating", "Shred-resistant", "Mint flavored"],
+
+  "rating": 4.1
+
+},
+
+{
+
+  "id": "mouthwash",
+
+  "name": "Antibacterial Mouthwash",
+
+  "category": "accessories",
+
+  "price": "$8.99",
+
+  "description": "Kills germs and freshens breath for 24 hours",
+
+  "features": ["24-hour protection", "Alcohol-free", "Fresh taste"],
+
+  "rating": 4.4
+
+},
+
+{
+
+  "id": "kids-brush",
+
+  "name": "Colorful Kids Toothbrush",
+
+  "category": "kids",
+
+  "price": "$3.99",
+
+  "description": "Soft bristles designed for children's teeth",
+
+  "features": ["Soft bristles", "Fun colors", "Easy grip handle"],
+
+  "rating": 4.2
+
+},
+
+{
+
+  "id": "sensitive-toothpaste",
+
+  "name": "Sensitive Teeth Relief",
+
+  "category": "toothpaste",
+
+  "price": "$9.99",
+
+  "description": "Specially formulated for sensitive teeth",
+
+  "features": ["Sensitivity relief", "Gentle formula", "Daily protection"],
+
+  "rating": 4.6
+
+},
+
+{
+
+  "id": "manual-brush",
+
+  "name": "Professional Manual Brush",
+
+  "category": "brushes",
+
+  "price": "$5.99",
+
+  "description": "Ergonomic design with premium bristles",
+
+  "features": ["Ergonomic handle", "Premium bristles", "Multiple colors"],
+
+  "rating": 4.0
+
+}
+
+],
+
+"mediaLibrary": [
+
+{
+
+  "id": "video1",
+
+  "title": "Proper Brushing Technique",
+
+  "type": "video",
+
+  "duration": "3:45",
+
+  "description": "Learn the correct way to brush your teeth"
+
+},
+
+{
+
+  "id": "video2",
+
+  "title": "Flossing Demonstration",
+
+  "type": "video",
+
+  "duration": "2:30",
+
+  "description": "Step-by-step flossing guide"
+
+},
+
+{
+
+  "id": "video3",
+
+  "title": "Children's Oral Care",
+
+  "type": "video",
+
+  "duration": "4:15",
+
+  "description": "Oral care tips for children"
+
+},
+
+{
+
+  "id": "video4",
+
+  "title": "Dental Emergency First Aid",
+
+  "type": "video",
+
+  "duration": "5:20",
+
+  "description": "What to do in dental emergencies"
+
+}
+
+],
+
+"gallery": [
+
+{
+
+  "id": "img1",
+
+  "title": "Modern Dental Office",
+
+  "category": "office"
+
+},
+
+{
+
+  "id": "img2",
+
+  "title": "Dental Equipment",
+
+  "category": "equipment"
+
+},
+
+{
+
+  "id": "img3",
+
+  "title": "Patient Care",
+
+  "category": "care"
+
+},
+
+{
+
+  "id": "img4",
+
+  "title": "Dental Procedures",
+
+  "category": "procedures"
+
+},
+
+{
+
+  "id": "img5",
+
+  "title": "Oral Health Education",
+
+  "category": "education"
+
+},
+
+{
+
+  "id": "img6",
+
+  "title": "Pediatric Dentistry",
+
+  "category": "pediatric"
+
+},
+
+{
+
+  "id": "img7",
+
+  "title": "Dental Technology",
+
+  "category": "technology"
+
+},
+
+{
+
+  "id": "img8",
+
+  "title": "Preventive Care",
+
+  "category": "prevention"
+
+}
+
+],
+
+"siteInfo": {
+
+"name": "Belleville Dental",
+
+"tagline": "Your Oral Health Partner",
+
+"mission": "To provide comprehensive dental health resources, education, and products that empower both professionals and patients to achieve optimal oral health.",
+
+"vision": "To be the leading platform for dental health education and awareness, fostering a community of informed patients and skilled professionals.",
+
+"contact": {
+
+  "email": "info@bellevilledental.com",
+
+  "phone": "+1 (555) 123-4567",
+
+  "address": "123 Dental Street, Belleville, ON K8N 1A1"
+
+}
+
+}
+
+}
